@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 :coffee: In case of unresponsiveness, give me coffee. 
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=jcnmsg&show_icons=true&include_all_commits=true&hide_title=true&count_private=true&line_height=25&theme=nord&hide_border=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcnmsg&layout=compact&langs_count=10&theme=nord&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcnmsg&layout=compact&langs_count=10&theme=nord&hide_border=true&hide=Batchfile)](https://github.com/anuraghazra/github-readme-stats)
  
