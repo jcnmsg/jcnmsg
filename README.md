@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-:computer:  I’m currently working as a full-stack developer, leaning heavily to the front-end side (JavaScript).  
+:computer:  I’m currently working as a full-stack developer, leaning heavily towards the front-end side (JavaScript).  
 :video_game:  I enjoy making games as a hobby, focusing mostly on retro consoles (Lua, C).  
 :memo: I ocasionally write about my nooby game development endeavours [here](https://joaomakes.games/blog).  
 :coffee: In case of unresponsiveness, give me coffee. 
