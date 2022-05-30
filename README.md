@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 :computer:  I’m currently working as a full-stack developer, leaning heavily towards the front-end side (JavaScript).  
 :video_game:  I enjoy making games as a hobby, focusing mostly on retro consoles (Lua, C).  
-:memo: I ocasionally write about my nooby game development endeavours [here](https://joaomakes.games/blog).  
+:memo: I occasionally write about my nooby game development endeavours [here](https://joaomakes.games/blog).  
 :coffee: In case of unresponsiveness, give me coffee. 
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=jcnmsg&show_icons=true&include_all_commits=true&hide_title=true&count_private=true&line_height=25&theme=nord&hide_border=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
