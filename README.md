@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 :video_game:  I enjoy making games as a hobby, focusing mostly on retro consoles (Lua, C).  
 :memo: I occasionally write about my nooby game development endeavours [here](https://joaomakes.games/blog).  
 :coffee: In case of unresponsiveness, give me coffee. 
-
-[![GitHub stats](https://github-readme-stats-hazel-nine.vercel.app/api?username=jcnmsg&show_icons=true&include_all_commits=true&hide_title=true&count_private=true&line_height=25&theme=nord&hide_border=true&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats-hazel-nine.vercel.app/api/top-langs/?username=jcnmsg&layout=compact&langs_count=10&theme=nord&hide_border=true&hide=Batchfile)](https://github.com/anuraghazra/github-readme-stats)
- 
+<p align="left">
+<img height="180em" src="https://github-readme-stats-hazel-nine.vercel.app/api?username=jcnmsg&show_icons=true&include_all_commits=true&hide_title=true&count_private=true&line_height=25&theme=nord&hide_border=true&hide_rank=false" align = "center"/>
+<img height="180em" src="https://github-readme-stats-hazel-nine.vercel.app/api/top-langs/?username=jcnmsg&layout=compact&langs_count=10&theme=nord&hide_border=true&hide=Batchfile" align = "center"/>
+</p>
