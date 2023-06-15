@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 :coffee: In case of unresponsiveness, give me coffee. 
 
 <div class='container'>
-<img style="width: 53%;" class="img" src="https://github-readme-stats-hazel-nine.vercel.app/api?username=jcnmsg&show_icons=true&include_all_commits=true&hide_title=true&count_private=true&line_height=24&theme=nord&hide_border=true&hide_rank=false" />
-<img style="width: 36%;" class="img" src="https://github-readme-stats-hazel-nine.vercel.app/api/top-langs/?username=jcnmsg&layout=compact&langs_count=10&theme=nord&hide_border=true&hide=Batchfile" /></div>
+<img style="width: 47%;" class="img" src="https://github-readme-stats-hazel-nine.vercel.app/api?username=jcnmsg&show_icons=true&include_all_commits=true&hide_title=true&count_private=true&line_height=24&theme=nord&hide_border=true&hide_rank=true" />
+<img style="width: 44%;" class="img" src="https://github-readme-stats-hazel-nine.vercel.app/api/top-langs/?username=jcnmsg&layout=compact&langs_count=10&theme=nord&hide_border=true&hide=Batchfile" /></div>
 </div>
