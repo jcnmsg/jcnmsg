@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 :memo: I occasionally write about my nooby game development endeavours [here](https://joaomakes.games/blog).  
 :coffee: In case of unresponsiveness, give me coffee. 
 
-<p align="center" style="display:flex">
-<img height="180em" src="https://github-readme-stats-hazel-nine.vercel.app/api?username=jcnmsg&show_icons=true&include_all_commits=true&hide_title=true&count_private=true&line_height=25&theme=nord&hide_border=true&hide_rank=false" align="center"/>
-<img height="180em" src="https://github-readme-stats-hazel-nine.vercel.app/api/top-langs/?username=jcnmsg&layout=compact&langs_count=10&theme=nord&hide_border=true&hide=Batchfile" align="center"/>
+<p align="left" style="display:flex; flex-direction: column">
+<img src="https://github-readme-stats-hazel-nine.vercel.app/api?username=jcnmsg&show_icons=true&include_all_commits=true&hide_title=true&count_private=true&line_height=25&theme=nord&hide_border=true&hide_rank=true" align="left"/>
+<img src="https://github-readme-stats-hazel-nine.vercel.app/api/top-langs/?username=jcnmsg&layout=compact&langs_count=10&theme=nord&hide_border=true&hide=Batchfile" align="left"/>
 </p>
