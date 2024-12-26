@@ -1,4 +1,4 @@
-## Hi there, I'm João 👋
+## Hi there, I'm Johnny 👋
 
 :computer:  I’m currently working as a full-stack developer, leaning heavily towards the front-end side (JavaScript).  
 :video_game:  I enjoy making games as a hobby, focusing mostly on retro consoles (Lua, C).  
